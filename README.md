@@ -65,7 +65,7 @@ You can download the `.pbix` file and explore it in Power BI Desktop to learn ab
 If you liked this project, feel free to:
 - ⭐ Star the repo
 - 🔁 Fork it to enhance or customize
-- 📩 Connect with me on [LinkedIn](www.linkedin.com/in/anand-jha-491885339)  
+- 📩 Connect with me on [LinkedIn] www.linkedin.com/in/anand-jha-491885339 
 
 ---
 
